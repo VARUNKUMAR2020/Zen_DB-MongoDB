@@ -1,0 +1,191 @@
+List of Collections:
+
+Users :                                                                  
+[{
+  "id": 1,
+  "name": "John Doe",
+  "email": "john.doe@example.com",
+  “Task_submissions”: “Yes”
+},
+{
+  "id": 2,
+  "name": "Jane Smith",
+  "email": "jane.smith@example.com",
+  “Task_submissions”: “Yes”
+},
+{
+  "id": 3,
+  "name": "Bob Johnson",
+  "email": "bob.johnson@example.com",
+  “Task_submissions”: “Yes”
+},
+{
+  "id": 4,
+  "name": "Alice Lee",
+  "email": "alice.lee@example.com",
+  “Task_submissions”: “No”
+},
+{
+  "id": 5,
+  "name": "Eva Brown",
+  "email": "eva.brown@example.com",
+  “Task_submissions”: “No”
+}]
+
+CodeKata :
+[{
+  "user": "John Doe",
+  "problems_solved": 5
+},
+{ 
+  "user": "Jane Smith",
+  "problems_solved": 10
+},
+
+{
+  "user": "Bob Johnson",
+  "problems_solved": 20
+},
+{
+  "user": "Alice Lee",
+  "problems_solved": 30
+},
+{
+   "user": "Eva Brown",
+  "problems_solved": 40
+}]
+
+Attendance :
+[{
+  "name": "John Doe",
+  "Attendance": [
+    {
+      "oct": "true"
+    }
+  ]
+},
+{
+  "name": "Jane Smith",
+  "Attendance": [
+    {
+      "oct": "true"
+    }
+  ]
+},
+{
+  "name": "Bob Johnson",
+  "Attendance": [
+    {
+      "oct": "true"
+    }
+  ]
+},
+{
+   "name": "Alice Lee",
+  "Attendance": [
+    {
+      "oct": "true"
+    }
+  ]
+},
+{
+  "name": "Eva Brown",
+  "Attendance": [
+    {
+      "oct": "true"
+    }
+  ]
+}]
+
+Company_drive:
+[{ 
+  "company": "facebook",
+  "user_appeared": "john Doe",
+  "appeared_date": "10 OCT-2020"
+},
+{
+  "company": "zoho",
+  "user_appeared": "Jane Smith",
+  "appeared_date": "12 OCT-2020"
+},
+{
+  "company": "HCL",
+  "user_appeared": "Bob Johnson",
+  "appeared_date": "15 OCT-2020"
+},
+{
+  "company": "google",
+  "user_appeared": "Alice Lee",
+  "appeared_date": "18 OCT-2020"
+},
+{
+  "company": "Amazon",
+  "user_appeared": "Eva Brown",
+  "appeared_date": "20 OCT-2020"
+}]
+
+Topics:
+[{
+   "month": "June",
+  "topic": "HTML"
+},
+{
+  "month": "July",
+  "topic": "CSS"
+},
+{
+  "month": "August",
+  "topic": "Javascript"
+},
+{
+   "month": "September",
+  "topic": "React"
+},
+{
+  "month": "October",
+  "topic": "Node"
+}]
+
+Tasks :
+[{
+  "month":"June",
+  "task":"Structure-Webpage"
+},
+{
+  "month":"July",
+  "task":"Webpage-Styling"
+},
+{
+  "month":"August",
+  "task":"Webpage-Functionalities"
+},
+{
+  "month":"September",
+  "task":"Webpage-UI"
+},
+{
+  "month":"October",
+  "task":"Webpage-Database deployment"
+}]
+
+Mentors :
+[{
+    "name":"imran",
+    "total_students":10
+  },
+{
+    "name":"alura",
+    "total_students":11
+  },
+{
+    "name":"vishnu",
+    "total_students":19
+  },
+{
+    "name":"jobs",
+    "total_students":50
+  },
+{
+    "name":"vijay”,
+    "total_students":13
+  }]
